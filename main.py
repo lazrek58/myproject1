@@ -1,1 +1,1 @@
-print("Hello azraq 🚀")
+print("Hello lazrek 🚀")
